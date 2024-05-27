@@ -7,13 +7,13 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/him-anshu953)
 - 📝 I write articles on [Twitter](https://x.com/itsHim_anshu)
 - 📫 How to reach me: [Email](mailto:himanshuy953@gmail.com)
-- 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/him-anshu953)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/him-anshu953/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/itsHim_anshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranavishal0002" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/him-anshu953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal singh rana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/him-anshu953/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal singh rana" height="30" width="40" /></a>
 <a href="https://www.instagram.com/him_anshu_kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rana_vishal0002/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/himanshuy953/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rvishalsingh0002" height="30" width="40" /></a>
 
